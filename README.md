@@ -1,4 +1,4 @@
-# 🌟 Self Light – Aplicativo de Apoio Emocional e Autoconhecimento
+.# 🌟 Self Light – Aplicativo de Apoio Emocional e Autoconhecimento
 
 [Banner](img/Captura%20de%20tela%202025-06-17%20115733.png)
 
@@ -37,25 +37,24 @@ Em um cenário de crescente individualismo, ansiedade e isolamento, o **Self Lig
 
 ## 🎓 Instituição de Ensino
 **Nome da Instituição:** *[Marista Irmão acacio]*  
-**Curso:** *[Nome do curso]*  
+**Curso:** 
 **Disciplina:** Projeto Integrador  
-**Orientador(a):** *[Nome completo]*  
+**Orientador(a):**
 
 ---
 
 ## 👥 Equipe
-sarah
-João
-Julia
+Sarah,
+João,
+Julia e
 Evellin
 
 ---
 
 ## 🔗 Links Úteis
-- [Protótipo no Figma](https://www.figma.com/...)
-- [Documentação Completa (PDF)](https://...)
-- [Apresentação do Projeto (Slides)](https://...)
-- [APK para Testes (Android)](https://...)
+
+- [Protótipo no Figma]()
+- [Apresentação do Projeto (Slides)]([https://...](https://www.canva.com/design/DAGp2irmc_o/I5NWms6_eRLFqNQkXh7cIg/view?utm_content=DAGp2irmc_o&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6185fc46ea))
 
 ---
 
