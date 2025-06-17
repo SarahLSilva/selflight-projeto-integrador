@@ -9,8 +9,6 @@
 5. [Equipe](#-equipe)  
 
 
----
-
 ## 🎯 Objetivo Geral
 Desenvolver uma aplicação mobile que promova o bem-estar emocional e o autoconhecimento por meio de reflexões diárias, acompanhamento de sentimentos e conexões humanas significativas.
 
