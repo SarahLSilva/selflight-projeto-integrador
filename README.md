@@ -54,7 +54,7 @@ Evellin
 ## 🔗 Links Úteis
 
 - [Protótipo no Figma]()
-- [Apresentação do Projeto (Slides)](https://...](https://www.canva.com/design/DAGp2irmc_o/I5NWms6_eRLFqNQkXh7cIg/view?utm_content=DAGp2irmc_o&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6185fc46ea)
+- [Apresentação do Projeto (Slides)](https://www.canva.com/design/DAGp2irmc_o/I5NWms6_eRLFqNQkXh7cIg/view?utm_content=DAGp2irmc_o&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6185fc46ea)
 
 ---
 
