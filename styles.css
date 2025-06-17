@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Nunito', sans-serif;
+  background: linear-gradient(to bottom right, #f2d1ff, #d9ffc7, #d0ffbe);
+  color: #2a2a2a;
+}
+
+/* HEADER COM VISUAL FUTURISTA MAS ACOLHEDOR */
+header {
+  background-color: #ffffffd9;
+  max-width: 1000px;
+  margin: 30px auto;
+  padding: 40px;
+  border-radius: 20px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
+}
+
+header h1 {
+  font-size: 2.5em;
+  margin-bottom: 20px;
+  text-align: center;
+  color: #1a1a1a;
+  font-weight: 700;
+}
+
+header h2 {
+  font-size: 1.5em;
+  margin-bottom: 15px;
+  color: #1a1a1a;
+  font-weight: 600;
+  text-align: left;
+  margin-top: 25px;
+}
+
+header p {
+  font-size: 1.1em;
+  line-height: 1.9;
+  text-align: justify;
+  color: #333;
+}
+
+/* LAYOUT EM GRADE 2x2 */
+.container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  gap: 30px;
+  max-width: 1000px;
+  margin: 0 auto 50px;
+}
+
+/* CARTÕES */
+.info-card {
+  border-radius: 18px;
+  padding: 25px;
+  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.05);
+  background-color: #f9fafe;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.info-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.08);
+}
+
+.info-card h2 {
+  font-size: 1.3em;
+  color: #222;
+  margin-bottom: 15px;
+  font-weight: 700;
+  text-align: left;
+}
+
+.info-card p {
+  font-size: 1em;
+  line-height: 1.7;
+  text-align: left;
+  color: #444;
+}
+
+/* IMAGENS */
+.info-card img {
+  width: 100%;
+  max-height: 220px;
+  object-fit: cover;
+  margin-bottom: 15px;
+  border-radius: 12px;
+  background-color: #ffffff;
+  border: 2px solid #ddd;
+}
+
+/* LINKS */
+a {
+  color: #3c6ee8;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* RESET MARGENS DE DIV */
+div {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
