@@ -1,6 +1,6 @@
 .# 🌟 Self Light – Aplicativo de Apoio Emocional e Autoconhecimento
 
-! [Banner](img/Captura%20de%20tela%202025-06-17%20115733.png)
+![Banner](img/Captura%20de%20tela%202025-06-17%20115733.png)
 
 ### 📑 Índice
 
