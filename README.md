@@ -1,5 +1,16 @@
 # 🌟 Self Light – Aplicativo de Apoio Emocional e Autoconhecimento
 
+### 📑 Índice
+
+1. [Objetivo Geral](#-objetivo-geral)  
+2. [Descrição do Projeto](#-descrição-do-projeto)  
+3. [Tecnologias Utilizadas](#-tecnologias-utilizadas)  
+4. [Justificativa](#-justificativa)  
+5. [Equipe](#-equipe)  
+
+
+---
+
 ## 🎯 Objetivo Geral
 Desenvolver uma aplicação mobile que promova o bem-estar emocional e o autoconhecimento por meio de reflexões diárias, acompanhamento de sentimentos e conexões humanas significativas.
 
